@@ -3,7 +3,7 @@
 This repo contains various branches for different team mates
 
     Boopathy
-    Hariprakesh
+    Hariprakash
     Vishalini
     Mukilan
     Moulidhar
