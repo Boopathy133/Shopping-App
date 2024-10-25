@@ -7,6 +7,7 @@ This repo contains various branches for different team mates
     Vishalini
     Mukilan
     Moulidhar
+    
 Use your own branch to push in this repo. Don't use main branch.
 
 
@@ -31,13 +32,18 @@ Step 1: Create new folder for cloning this repo.
 
 
 
-Step 2: Use this comment to clone --- ""git clone https://github.com/Boopathy133/Shopping-App.git"" ---
+Step 2: Use this comment to clone
+
+    git clone https://github.com/Boopathy133/Shopping-App.git
+        
 
 
 
 
 
-Step 3: Use this comment to go to u r BRANCH  ----  git checkout <branch_name>
+Step 3: Use this comment to go to u r BRANCH
+
+    git checkout <branch_name>
 
  
  
