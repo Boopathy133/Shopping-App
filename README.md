@@ -31,7 +31,7 @@ Step 1: Create new folder for cloning this repo.
 
 
 
-Step 2: Use this comment to clone --- git clone ---
+Step 2: Use this comment to clone --- ""git clone https://github.com/Boopathy133/Shopping-App.git"" ---
 
 
 
